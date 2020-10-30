@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/veenarengarajan/static/css/main.4651d7ce.chunk.css",
-    "main.js": "/veenarengarajan/static/js/main.003b300a.chunk.js",
-    "main.js.map": "/veenarengarajan/static/js/main.003b300a.chunk.js.map",
-    "runtime-main.js": "/veenarengarajan/static/js/runtime-main.c7b8cdd8.js",
-    "runtime-main.js.map": "/veenarengarajan/static/js/runtime-main.c7b8cdd8.js.map",
-    "static/css/2.e4c595de.chunk.css": "/veenarengarajan/static/css/2.e4c595de.chunk.css",
-    "static/js/2.61450c6f.chunk.js": "/veenarengarajan/static/js/2.61450c6f.chunk.js",
-    "static/js/2.61450c6f.chunk.js.map": "/veenarengarajan/static/js/2.61450c6f.chunk.js.map",
-    "index.html": "/veenarengarajan/index.html",
-    "precache-manifest.c0b20134cc339189274e25b29086b9ff.js": "/veenarengarajan/precache-manifest.c0b20134cc339189274e25b29086b9ff.js",
-    "service-worker.js": "/veenarengarajan/service-worker.js",
-    "static/css/2.e4c595de.chunk.css.map": "/veenarengarajan/static/css/2.e4c595de.chunk.css.map",
-    "static/css/main.4651d7ce.chunk.css.map": "/veenarengarajan/static/css/main.4651d7ce.chunk.css.map",
-    "static/js/2.61450c6f.chunk.js.LICENSE.txt": "/veenarengarajan/static/js/2.61450c6f.chunk.js.LICENSE.txt",
-    "static/media/Bg.jpg": "/veenarengarajan/static/media/Bg.d360036a.jpg",
-    "static/media/App.css": "/veenarengarajan/static/media/MinionWelcome.71168236.gif",
-    "static/media/Veena.png": "/veenarengarajan/static/media/Veena.0642f1f9.png",
-    "static/media/VeenaRengarajan_Resume.pdf": "/veenarengarajan/static/media/VeenaRengarajan_Resume.f55b929c.pdf",
-    "static/media/font-awesome.min.css": "/veenarengarajan/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/static/css/main.0c4d28c4.chunk.css",
+    "main.js": "/static/js/main.71693d3c.chunk.js",
+    "main.js.map": "/static/js/main.71693d3c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/css/2.701ac23d.chunk.css": "/static/css/2.701ac23d.chunk.css",
+    "static/js/2.61450c6f.chunk.js": "/static/js/2.61450c6f.chunk.js",
+    "static/js/2.61450c6f.chunk.js.map": "/static/js/2.61450c6f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1670d5f4c9e3ffbb7f395357015e9e75.js": "/precache-manifest.1670d5f4c9e3ffbb7f395357015e9e75.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.701ac23d.chunk.css.map": "/static/css/2.701ac23d.chunk.css.map",
+    "static/css/main.0c4d28c4.chunk.css.map": "/static/css/main.0c4d28c4.chunk.css.map",
+    "static/js/2.61450c6f.chunk.js.LICENSE.txt": "/static/js/2.61450c6f.chunk.js.LICENSE.txt",
+    "static/media/Bg.jpg": "/static/media/Bg.d360036a.jpg",
+    "static/media/App.css": "/static/media/MinionWelcome.71168236.gif",
+    "static/media/Veena.png": "/static/media/Veena.0642f1f9.png",
+    "static/media/VeenaRengarajan_Resume.pdf": "/static/media/VeenaRengarajan_Resume.f55b929c.pdf",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7b8cdd8.js",
-    "static/css/2.e4c595de.chunk.css",
+    "static/js/runtime-main.83c3e0c4.js",
+    "static/css/2.701ac23d.chunk.css",
     "static/js/2.61450c6f.chunk.js",
-    "static/css/main.4651d7ce.chunk.css",
-    "static/js/main.003b300a.chunk.js"
+    "static/css/main.0c4d28c4.chunk.css",
+    "static/js/main.71693d3c.chunk.js"
   ]
 }
