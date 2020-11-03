@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/veenarengarajan/static/css/main.4651d7ce.chunk.css",
-    "main.js": "/veenarengarajan/static/js/main.bbd98193.chunk.js",
-    "main.js.map": "/veenarengarajan/static/js/main.bbd98193.chunk.js.map",
+    "main.css": "/veenarengarajan/static/css/main.cbdf0e10.chunk.css",
+    "main.js": "/veenarengarajan/static/js/main.aa191e5d.chunk.js",
+    "main.js.map": "/veenarengarajan/static/js/main.aa191e5d.chunk.js.map",
     "runtime-main.js": "/veenarengarajan/static/js/runtime-main.c7b8cdd8.js",
     "runtime-main.js.map": "/veenarengarajan/static/js/runtime-main.c7b8cdd8.js.map",
     "static/css/2.e4c595de.chunk.css": "/veenarengarajan/static/css/2.e4c595de.chunk.css",
-    "static/js/2.61450c6f.chunk.js": "/veenarengarajan/static/js/2.61450c6f.chunk.js",
-    "static/js/2.61450c6f.chunk.js.map": "/veenarengarajan/static/js/2.61450c6f.chunk.js.map",
+    "static/js/2.b0d270ca.chunk.js": "/veenarengarajan/static/js/2.b0d270ca.chunk.js",
+    "static/js/2.b0d270ca.chunk.js.map": "/veenarengarajan/static/js/2.b0d270ca.chunk.js.map",
     "index.html": "/veenarengarajan/index.html",
-    "precache-manifest.486158294c5e2063d093335d79442ad5.js": "/veenarengarajan/precache-manifest.486158294c5e2063d093335d79442ad5.js",
+    "precache-manifest.d7e0151222b252c5eed407ddddf1d060.js": "/veenarengarajan/precache-manifest.d7e0151222b252c5eed407ddddf1d060.js",
     "service-worker.js": "/veenarengarajan/service-worker.js",
     "static/css/2.e4c595de.chunk.css.map": "/veenarengarajan/static/css/2.e4c595de.chunk.css.map",
-    "static/css/main.4651d7ce.chunk.css.map": "/veenarengarajan/static/css/main.4651d7ce.chunk.css.map",
-    "static/js/2.61450c6f.chunk.js.LICENSE.txt": "/veenarengarajan/static/js/2.61450c6f.chunk.js.LICENSE.txt",
+    "static/css/main.cbdf0e10.chunk.css.map": "/veenarengarajan/static/css/main.cbdf0e10.chunk.css.map",
+    "static/js/2.b0d270ca.chunk.js.LICENSE.txt": "/veenarengarajan/static/js/2.b0d270ca.chunk.js.LICENSE.txt",
     "static/media/Bg.jpg": "/veenarengarajan/static/media/Bg.d360036a.jpg",
     "static/media/App.css": "/veenarengarajan/static/media/MinionWelcome.71168236.gif",
     "static/media/Veena.png": "/veenarengarajan/static/media/Veena.0642f1f9.png",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.c7b8cdd8.js",
     "static/css/2.e4c595de.chunk.css",
-    "static/js/2.61450c6f.chunk.js",
-    "static/css/main.4651d7ce.chunk.css",
-    "static/js/main.bbd98193.chunk.js"
+    "static/js/2.b0d270ca.chunk.js",
+    "static/css/main.cbdf0e10.chunk.css",
+    "static/js/main.aa191e5d.chunk.js"
   ]
 }
