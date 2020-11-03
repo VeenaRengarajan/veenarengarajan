@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f86e937036f861d422e69e20be50e22",
+    "revision": "9c248dcded40c2b0e9490c1582498e1d",
     "url": "/veenarengarajan/index.html"
   },
   {
-    "revision": "77000a0ba20b4b881c05",
+    "revision": "69beacd3e9244f6a9df9",
     "url": "/veenarengarajan/static/css/2.e4c595de.chunk.css"
   },
   {
-    "revision": "c69f43b2f2a1c14802ba",
+    "revision": "8a1f40de069b15f5fb4b",
     "url": "/veenarengarajan/static/css/main.cbdf0e10.chunk.css"
   },
   {
-    "revision": "77000a0ba20b4b881c05",
-    "url": "/veenarengarajan/static/js/2.b0d270ca.chunk.js"
+    "revision": "69beacd3e9244f6a9df9",
+    "url": "/veenarengarajan/static/js/2.01f73bc7.chunk.js"
   },
   {
     "revision": "451ffe720aa8add9f554b8ed54913322",
-    "url": "/veenarengarajan/static/js/2.b0d270ca.chunk.js.LICENSE.txt"
+    "url": "/veenarengarajan/static/js/2.01f73bc7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c69f43b2f2a1c14802ba",
-    "url": "/veenarengarajan/static/js/main.704812e9.chunk.js"
+    "revision": "8a1f40de069b15f5fb4b",
+    "url": "/veenarengarajan/static/js/main.a5ed034f.chunk.js"
   },
   {
     "revision": "08f24e10ebea35c13fa8",
@@ -38,10 +38,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0642f1f966b0ad670cc36ac86c6f621e",
     "url": "/veenarengarajan/static/media/Veena.0642f1f9.png"
-  },
-  {
-    "revision": "c47c3ef005266e8bc59fabf3ec2c7a34",
-    "url": "/veenarengarajan/static/media/VeenaRengarajan_Resume.c47c3ef0.pdf"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
