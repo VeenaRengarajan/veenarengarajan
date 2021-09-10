@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/veenarengarajan/static/css/main.cbdf0e10.chunk.css",
-    "main.js": "/veenarengarajan/static/js/main.61dd0356.chunk.js",
-    "main.js.map": "/veenarengarajan/static/js/main.61dd0356.chunk.js.map",
+    "main.js": "/veenarengarajan/static/js/main.db30c56a.chunk.js",
+    "main.js.map": "/veenarengarajan/static/js/main.db30c56a.chunk.js.map",
     "runtime-main.js": "/veenarengarajan/static/js/runtime-main.c7b8cdd8.js",
     "runtime-main.js.map": "/veenarengarajan/static/js/runtime-main.c7b8cdd8.js.map",
     "static/css/2.e4c595de.chunk.css": "/veenarengarajan/static/css/2.e4c595de.chunk.css",
-    "static/js/2.01f73bc7.chunk.js": "/veenarengarajan/static/js/2.01f73bc7.chunk.js",
-    "static/js/2.01f73bc7.chunk.js.map": "/veenarengarajan/static/js/2.01f73bc7.chunk.js.map",
+    "static/js/2.f5c12298.chunk.js": "/veenarengarajan/static/js/2.f5c12298.chunk.js",
+    "static/js/2.f5c12298.chunk.js.map": "/veenarengarajan/static/js/2.f5c12298.chunk.js.map",
     "index.html": "/veenarengarajan/index.html",
-    "precache-manifest.9379279e30cf88e7c7654fb6e62fd52c.js": "/veenarengarajan/precache-manifest.9379279e30cf88e7c7654fb6e62fd52c.js",
+    "precache-manifest.bb50bce8053d41c2d2af1196ee231e8d.js": "/veenarengarajan/precache-manifest.bb50bce8053d41c2d2af1196ee231e8d.js",
     "service-worker.js": "/veenarengarajan/service-worker.js",
     "static/css/2.e4c595de.chunk.css.map": "/veenarengarajan/static/css/2.e4c595de.chunk.css.map",
     "static/css/main.cbdf0e10.chunk.css.map": "/veenarengarajan/static/css/main.cbdf0e10.chunk.css.map",
-    "static/js/2.01f73bc7.chunk.js.LICENSE.txt": "/veenarengarajan/static/js/2.01f73bc7.chunk.js.LICENSE.txt",
+    "static/js/2.f5c12298.chunk.js.LICENSE.txt": "/veenarengarajan/static/js/2.f5c12298.chunk.js.LICENSE.txt",
     "static/media/Bg.jpg": "/veenarengarajan/static/media/Bg.d360036a.jpg",
     "static/media/App.css": "/veenarengarajan/static/media/MinionWelcome.71168236.gif",
     "static/media/Veena.png": "/veenarengarajan/static/media/Veena.0642f1f9.png",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.c7b8cdd8.js",
     "static/css/2.e4c595de.chunk.css",
-    "static/js/2.01f73bc7.chunk.js",
+    "static/js/2.f5c12298.chunk.js",
     "static/css/main.cbdf0e10.chunk.css",
-    "static/js/main.61dd0356.chunk.js"
+    "static/js/main.db30c56a.chunk.js"
   ]
 }
